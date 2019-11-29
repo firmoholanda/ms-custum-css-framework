@@ -616,6 +616,50 @@ html {
   display: inline-flex !important;
 }
 
+.jc-start {
+  justify-content: flex-start;
+}
+
+.jc-center {
+  justify-content: center;
+}
+
+.jc-end {
+  justify-content: flex-end;
+}
+
+.ai-start {
+  align-items: flex-start;
+}
+
+.ai-center {
+  align-items: center;
+}
+
+.ai-end {
+  align-items: flex-end;
+}
+
+.ac-start {
+  align-content: flex-start;
+}
+
+.ac-center {
+  align-content: center;
+}
+
+.ac-end {
+  align-content: flex-end;
+}
+
+.block {
+  display: block;
+}
+
+.inline {
+  display: inline;
+}
+
 @media (min-width: 480px) {
   .sm-none {
     display: none !important;
@@ -3024,7 +3068,6 @@ html {
 .btn-green {
   background-color: #1DB954;
 }
-
 
 @media (min-width: 480px) {
   .btn {
