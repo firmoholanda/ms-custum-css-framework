@@ -1,0 +1,53 @@
+/* custom elements ------------------------------------------------------------------- */
+
+
+
+col
+col-sm 480
+col-md 768
+col-lg 992
+col-xl 1200
+
+p-5
+py-5
+px-5
+p-auto
+
+m-5
+my-5
+mx-5
+m-auto
+
+row
+
+flex
+flex-sm
+flex-md
+flex-lg
+flex-xl
+
+visible
+invisible
+
+
+.img-fluid {
+	max-width: 100%;
+	height: auto;
+}
+
+
+position-relative
+position-absolute
+position-fixed
+position-sticky
+fixed-top
+
+nav
+nav-item
+mob-nav
+
+btn
+btn-primary
+btn-secondary
+
+hover
