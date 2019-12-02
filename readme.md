@@ -27,10 +27,10 @@ basic HTML5, CSS3, bootstrap 4 and github was used on this solo project.
 
 this project can be found in https://github.com/firmoholanda/newsweek.com-clone
 
-### ✨ [live version](https://raw.githack.com/firmoholanda/newsweek.com-clone/development/index.html)
+### ✨ [live version](https://raw.githack.com/firmoholanda/personal-css-framework/development/index.html)
 
 <a href="https://raw.githack.com/firmoholanda/newsweek.com-clone/development/index.html" target="_blank">
-    <img alt="page animation" src="https://github.com/firmoholanda/personal-css-framework/development/img/animation.gif"/>
+    <img alt="page animation" src="https://github.com/firmoholanda/personal-css-framework/blob/development/img/screenshot01.png"/>
 </a>
 
 
