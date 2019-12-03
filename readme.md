@@ -14,11 +14,13 @@ the assignment can be found in the Odin Project's HTML and CSS course that can b
 
 ## 📡 technologies used
 
-- css
-- bootstrap
-- github
+- CSS
+- Personal Framework
+- Github
+- Stickler CI
+- Javascript
 
-CSS3, bootstrap 4 and github was used on this project.
+Basic HTML5, CSS3, our personal framework and github was used on this project.
 
 
 
