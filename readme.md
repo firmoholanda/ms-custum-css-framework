@@ -1,8 +1,6 @@
 # 📃 Personal-CSS-Framework
 
-this project is part of a series of projects to be completed by students of [Microverse](https://www.microverse.org/ 'The Global School for Remote Software Developers!').
-
-in this final project, we got to take everything we learned and use it to build your own simple grid-based framework.
+This is a grid-based framework (like bootstrap) that includes some basic functionality necessary to build a website.
 
 
 
